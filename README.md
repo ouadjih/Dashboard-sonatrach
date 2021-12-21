@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ouadjih
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ouadjak42@gmail.com
+- 👀 I’m interested in Web developpment & network security
+- 🌱 I’m currently learning network security and react js
+- 💞️ I’m looking to collaborate on any intresting project
+- 📫 How to reach me ouadjihboudraa@yahoo.com
 
 <!---
 ouadjih/ouadjih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
